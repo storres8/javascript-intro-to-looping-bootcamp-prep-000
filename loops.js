@@ -18,4 +18,4 @@ while (n>0){
 return 'done' 
 }
 
-function 
+function doWhileLoop(array)  
